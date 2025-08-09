@@ -2,6 +2,8 @@
 	"name": "Page Title",
 	"start_url": "./",
 	"display": "fullscreen",
+	"theme_color": "#FFFFFF",
+	"background_color": "#FFFFFF",
 	"icons": [
 		{
 			"src": "favicon.png",
